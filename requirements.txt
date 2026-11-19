@@ -1,0 +1,13 @@
+customtkinter
+easyocr
+opencv-python
+numpy
+mss
+pydirectinput
+keyboard
+psutil
+truststore
+certifi
+pillow
+pystray
+pywebview
